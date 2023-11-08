@@ -1,0 +1,8 @@
+com\example\statisticsdemo\service\impl\StatisticsService.class
+com\example\statisticsdemo\config\MyBatisConfig.class
+com\example\statisticsdemo\dto\StatisticDTO.class
+com\example\statisticsdemo\StatisticsDemoApplication.class
+com\example\statisticsdemo\dto\DataInputDTO.class
+com\example\statisticsdemo\controllers\StatisticsController.class
+com\example\statisticsdemo\persistance\mappers\IStatisticsMapper.class
+com\example\statisticsdemo\service\IStatisticsService.class
