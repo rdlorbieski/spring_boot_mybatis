@@ -73,9 +73,9 @@ Exemplo de corpo JSON:
 
 ```json
     {
-        "mean": 10.5,
-        "median": 8.0,
-        "min": 2.5,
-        "max": 15.0
+    	"max": 6.0,
+      "mean": 3.4,
+    	"median": 3.0,
+    	"min": 1.0	
     }
 ```
